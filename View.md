@@ -1,27 +1,48 @@
-## 🏆 Awards 
+## 🏆 Awards
+
+**Best Paper at SAS Conference**  
+*Issued May 2023*  
+*Associated with Oklahoma State University*  
+- Awarded Best Paper for "Analysis on Chemicals in Cosmetics and the Impact on Consumer" at the SAS Conference.
+
+**Cord Platinum Award**  
+*Issued May 2023*  
+*Associated with International Students Organization*  
+- Recognized with the Cord Platinum Award for contributing over 400 volunteering hours.
+
+**Global AI for Good Challenge**  
+*Issued May 2023*  
+*Associated with Oklahoma State University*  
+- Achieved 3rd place at the Global AI for Good Challenge.
+
+**Dean's Honor Roll**  
+*Issued Dec 2020*  
+*Associated with Oklahoma State University*  
+- Awarded Dean's Honor Roll for two semesters consecutively by Spears School of Business.
+
+**Outstanding Senior in Marketing and International Business (2020-2021)**  
+*Issued Dec 2020*  
+*Associated with Oklahoma State University*  
+- Honored as one of the outstanding seniors in Marketing and International Business by Spears School of Business.
+- Recognized for academic excellence and on-campus involvement. Interviewed among 1500 students and selected as one of the top 20 based on performance.
 
 
 ## 🎓 Certifications
 
 **Associate Certified Analytics Professional (aCAP)**  
 *Issued Jul 2023 · Expires Jul 2026*  
-![Prolydian](https://img.shields.io/badge/Prolydian-Prolydian-blue?logo=prolydian)
 
 **Microsoft SQL Server Reporting Services**  
 *Issued Jul 2023*  
-![Udemy](https://img.shields.io/badge/Udemy-Udemy-blue?logo=udemy)
 
 **Power BI**  
 *Issued Jul 2023*  
-![Udemy](https://img.shields.io/badge/Udemy-Udemy-blue?logo=udemy)
 
 **Amazon Web Services Cloud Practitioner**  
 *Issued Feb 2022*  
-![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-yellow?logo=amazon)
 
 **Google Cloud Big Data and Machine Learning Fundamentals**  
 *Issued Dec 2021*  
-![Coursera](https://img.shields.io/badge/Coursera-Coursera-blue?logo=coursera)
 
 **Tableau Desktop Specialist**  
 *Issued Jun 2021*  
