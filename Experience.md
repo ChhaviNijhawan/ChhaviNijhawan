@@ -2,7 +2,6 @@
 
 ## **Market Risk Analyst & Data Scientist**
 *Federal Home Loan Bank of Des Moines, IA*  
-*Date: [Start Date] – [End Date]*
 
 - Generated Business Intelligence reports and dashboards for monthly valuation discussions, forecasting investment price changes and market fluctuations valued up to $100M USD for finance and business stakeholders using ARIMA and ARMA modeling.
 - Provided support for ad hoc analysis related to the Bank's market risk exposures, including testing and validation of data.
@@ -12,14 +11,12 @@
 
 ## **Data Scientist**
 *Point Focal, Boston*  
-*Date: [Start Date] – [End Date]*
 
 - Developed a financial risk assessment model using statistical modeling and machine learning algorithms, flagging high-risk accounts and enabling the recovery of $15M USD by recommending loan collection strategies.
 - Supported the orchestration of data processing pipelines on AWS, utilizing S3 buckets, Lambdas (Python and Node.js), DynamoDB, RDS (MySQL), and CloudFormation. Integrated natural language narratives into analytic content.
 
 ## **Program Manager & Data Scientist**
 *Investors Clinic, Noida, IN*  
-*Date: [Start Date] – [End Date]*
 
 - Orchestrated cross-functional team efforts across diverse projects, prioritizing tasks to align with product objectives; improved deadline adherence by 35% and accelerated product development cycles, enhancing overall team productivity.
 - Developed end-to-end house price prediction models using regression and other machine learning models, driving innovation from concept to product launch, increasing market share by 25% within six months and enhancing profits by approximately $100K USD annually.
