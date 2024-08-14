@@ -1,3 +1,37 @@
+## 🏆 Awards 
+
+
+## 🎓 Certifications
+
+**Associate Certified Analytics Professional (aCAP)**  
+*Issued Jul 2023 · Expires Jul 2026*  
+![Prolydian](https://img.shields.io/badge/Prolydian-Prolydian-blue?logo=prolydian)
+
+**Microsoft SQL Server Reporting Services**  
+*Issued Jul 2023*  
+![Udemy](https://img.shields.io/badge/Udemy-Udemy-blue?logo=udemy)
+
+**Power BI**  
+*Issued Jul 2023*  
+![Udemy](https://img.shields.io/badge/Udemy-Udemy-blue?logo=udemy)
+
+**Amazon Web Services Cloud Practitioner**  
+*Issued Feb 2022*  
+![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-yellow?logo=amazon)
+
+**Google Cloud Big Data and Machine Learning Fundamentals**  
+*Issued Dec 2021*  
+![Coursera](https://img.shields.io/badge/Coursera-Coursera-blue?logo=coursera)
+
+**Tableau Desktop Specialist**  
+*Issued Jun 2021*  
+
+**Data Science**  
+*Issued Jul 2020*  
+
+**Digital Marketing**  
+*Issued Jun 2020*  
+
 ## 📚 Academic Projects
 
 **Analysis on Chemicals in Cosmetics and the Impact on Consumer**  
