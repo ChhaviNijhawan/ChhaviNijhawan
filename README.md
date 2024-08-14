@@ -25,4 +25,4 @@ I am a United States-based data-driven strategist with over 7 years of experienc
 
 ## 🏆 Awards, Research Projects, Conference Participation & Professional Memberships
 
-[View](https://github.com/ChhaviNijhawan/ChhaviNijhawan/blob/main/Experience.md)
+[View](https://github.com/ChhaviNijhawan/ChhaviNijhawan/blob/main/View.md)
