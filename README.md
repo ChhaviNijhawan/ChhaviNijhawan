@@ -5,10 +5,8 @@ I am a United States-based data-driven strategist with over 7 years of experienc
 
 ## 🏫 Education
 
-- **Master of Science** - Information Systems, University of Maryland Baltimore County (Aug 2023 - May 2025)
-- **Summer School Student** - Data Science, Hertie School of Data Science (June 2022 - July 2022)
-- **Summer School Student** - Turin School of Regulation - Regulation of Local Public Services (2021)
-- **Bachelor of Engineering** - Information Technology, University of Mumbai (Aug 2019 - May 2023)
+- **Master of Science** - Business Analytics and Data Science, Oklahoma State University (Jan 2021 - May 2023)
+- **Bachelor of Science** - Business Administration, Oklahoma State University (Jan 2017 - Dec 2020)
 
 ## 🏢 Experience
 
@@ -16,16 +14,15 @@ I am a United States-based data-driven strategist with over 7 years of experienc
 
 ## 🎯 Skills
 
-**Languages:** Python, R, HTML, CSS, JavaScript.  
+**Languages:** Python, R.  
 **Databases:** SQL, MySQL, PostgreSQL, PL/SQL.  
-**Libraries:** Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, Pillow, statsmodels, spaCy.  
-**Data Analysis Tools:** Tableau, Microsoft PowerBI, Microsoft Excel.  
+**Libraries:** Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, statsmodels, spaCy.  
+**Data Analysis Tools:** Tableau, Microsoft PowerBI, QlikView, Spotfire, Google Data Studio, Microsoft Excel.  
 **ML Algorithms:** Classification, Clustering, Regression, Random Forest, Gradient Boosting, Logistic Regression, ARIMAX, Time Series Forecasting, KNN, Decision Tree, XGBoost, Apriori.  
 **DL Algorithms:** CNN, RNN, LSTM, BERT, Transformers.  
-**Statistical Analysis:** Hypothesis Testing, A/B Testing, ANOVA, Descriptive/Predictive Analytics.  
+**Statistical Analysis:** Hypothesis Testing, A/B Testing, ARIMA, ANOVA, Descriptive/Predictive Analytics.  
 **Development Tools:** AWS (SageMaker, Lambda, S3, EC2, ECS, Glue, RDS, Redshift), Microsoft Azure, Google Cloud Platform, Hadoop, Spark, Hive.  
-**OCEANS:** argopy, cmocean, xarray, pyleoclim.
 
 ## 🏆 Awards, Research Projects, Conference Participation & Professional Memberships
 
-[View](#)  <!-- Replace # with the actual link to your awards, research projects, etc. -->
+[View](https://github.com/ChhaviNijhawan/ChhaviNijhawan/blob/main/Experience.md)
