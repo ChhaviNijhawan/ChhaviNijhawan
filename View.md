@@ -47,6 +47,15 @@
 **Tableau Desktop Specialist**  
 *Issued Jun 2021*  
 
+**PCEP - Certified Python Programmer**  
+*Issued Sep 2024* 
+
+**Generative Al Fundamentals**  
+*Issued Sep 2024*
+
+**Databricks Lakehouse Fundamentals**  
+*Issued Sep 2024* 
+
 **Data Science**  
 *Issued Jul 2020*  
 
