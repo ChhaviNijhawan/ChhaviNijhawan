@@ -5,8 +5,8 @@ I am a United States-based data-driven strategist with over 7 years of experienc
 
 ## 🏫 Education
 
-- **Master of Science** - Business Analytics and Data Science, Oklahoma State University (Jan 2021 - May 2023)
-- **Bachelor of Science** - Business Administration, Oklahoma State University (Jan 2017 - Dec 2020)
+- **Master of Science** - Business Analytics and Data Science, Oklahoma State University 
+- **Bachelor of Science** - Business Administration, Oklahoma State University 
 
 ## 🏢 Experience
 
