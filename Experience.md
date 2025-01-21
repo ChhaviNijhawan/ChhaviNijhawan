@@ -1,6 +1,6 @@
 # **Experience**
 
-## **Market Risk Analyst & Data Scientist**
+## **Data Scientist & Market Risk Analyst**
 *Federal Home Loan Bank of Des Moines, IA*  
 
 - Generated Business Intelligence reports and dashboards for monthly valuation discussions, forecasting investment price changes and market fluctuations valued up to $100M USD for finance and business stakeholders using ARIMA and ARMA modeling.
