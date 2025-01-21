@@ -14,7 +14,7 @@ I am a United States-based data-driven strategist with over 4+ years of experien
 
 ## 🎯 Skills
 
-**Languages:** Python, R.  
+**Languages:** Python, R, SQL.  
 **Databases:** SQL, MySQL, PostgreSQL, PL/SQL.  
 **Libraries:** Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, statsmodels, spaCy.  
 **Data Analysis Tools:** Tableau, Microsoft PowerBI, QlikView, Spotfire, Google Data Studio, Microsoft Excel.  
