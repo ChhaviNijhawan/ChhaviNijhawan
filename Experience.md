@@ -1,7 +1,7 @@
 # **Experience**
 
 ## **Data Scientist & Market Risk Analyst**
-*Federal Home Loan Bank of Des Moines, IA*  
+*Compunnel (Federal Home Loan Bank of Des Moines, IA)*  
 
 - Generated Business Intelligence reports and dashboards for monthly valuation discussions, forecasting investment price changes and market fluctuations valued up to $100M USD for finance and business stakeholders using ARIMA and ARMA modeling.
 - Provided support for ad hoc analysis related to the Bank's market risk exposures, including testing and validation of data.
