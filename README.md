@@ -8,6 +8,9 @@ I am a United States-based data-driven strategist with over 4+ years of experien
 - **Master of Science** - Business Analytics and Data Science, Oklahoma State University 
 - **Bachelor of Science** - Business Administration, Oklahoma State University 
 
+## 📝 Published Paper 
+Analysis of Chemicals in Beauty Products and its Impacts on Customers: https://www.wuss.org/proceedings/2022/WUSS-2022-Paper-114.pdf
+
 ## 🏢 Experience
 
 [View my Experience](https://github.com/ChhaviNijhawan/ChhaviNijhawan/blob/main/Experience.md)
