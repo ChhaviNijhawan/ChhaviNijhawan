@@ -1,7 +1,7 @@
 # **Experience**
 
 ## **Analytics Manager**
-*Compunnel (Federal Home Loan Bank of Des Moines, IA)*  
+*Compunnel (Federal Home Loan Bank)*  
 
 - Generated Business Intelligence reports and dashboards for the monthly valuation discussion forecasting investment price changes and market changes those value up to 100M USD for finance and business stakeholders using ARIMA, ARMA modeling.
 - Provide support for ad hoc analysis related to the Bank's market risk exposures, testing and validation of data.
