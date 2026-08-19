@@ -1,6 +1,16 @@
 # **Experience**
 
 ## **Financial Analyst**
+*Pennymac, Pasadena*  
+
+- Lead budgeting, rolling forecasts, and long-range planning for Production Operations and Tech departments, managing an annual operating budget of $45M+.
+- Own end-to-end CapEx tracking across 12+ critical infrastructure and technology projects, analyzing spend variances and managing the business case approval pipeline. 
+- Partner with Controllership during month-end and quarter-end closes, reconciling accounts and booking accruals to maintain under 2% budget variance.
+- Build dynamic financial models and consolidation tools in Excel to evaluate operational unit economics, capacity trends, and studio/production cost drivers.
+- Deliver monthly executive packages and variance commentary to division heads and finance leadership, highlighting cost-saving opportunities and resource risks.
+- Streamline the quarterly forecast workflow by standardizing input templates, cutting reporting cycle time by 20% across overhead departments.
+
+## **Financial Analyst**
 *Compunnel (Federal Home Loan Bank), New Jersey*  
 
 - Generated Business Intelligence reports and dashboards for the monthly valuation discussion forecasting investment price changes and market changes those value up to 100M USD for finance and business stakeholders using ARIMA, ARMA modeling.
