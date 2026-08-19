@@ -10,7 +10,7 @@
 - Deliver monthly executive packages and variance commentary to division heads and finance leadership, highlighting cost-saving opportunities and resource risks.
 - Streamline the quarterly forecast workflow by standardizing input templates, cutting reporting cycle time by 20% across overhead departments.
 
-## **Financial Analyst**
+## **Data Analyst**
 *Compunnel (Federal Home Loan Bank), New Jersey*  
 
 - Generated Business Intelligence reports and dashboards for the monthly valuation discussion forecasting investment price changes and market changes those value up to 100M USD for finance and business stakeholders using ARIMA, ARMA modeling.
@@ -21,7 +21,7 @@
 - Managing git production tasks and deploying projects in the production environment. 
 
 
-## **Business Analyst**
+## **Data Analyst**
 *Point Focal, Boston*  
 
 - Developed a financial risk assessment model using Analytical modeling tools using Statistical modeling & ML algorithms that flagged the accounts with higher risk. This enabled the recovery of 15 million USD by providing recommendations on loan collection strategies.
