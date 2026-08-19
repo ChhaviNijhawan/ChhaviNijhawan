@@ -25,6 +25,7 @@
 *Associated with Oklahoma State University*  
 - Honored as one of the outstanding seniors in Marketing and International Business by Spears School of Business.
 - Recognized for academic excellence and on-campus involvement. Interviewed among 1500 students and selected as one of the top 20 based on performance.
+- https://business.okstate.edu/site-files/archive/docs/marketing/2020-2021-orangebook.pdf
 
 
 ## 🎓 Certifications
